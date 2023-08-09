@@ -25,7 +25,14 @@ git checkout devA
 git checkout -b  devanav > new branch created + moved to 
 new branch
 git merge <branch name> to merge code of branches
-touch .gitignore
+touch .gitignore >all data which u dont want to upload
+create git repo
+git remote -v 
+git remote add origin git@github.com:M-Munim/learn-git.git
+generate and add ssh key
+git remote
+git branch
+git push -u origin
 
 
 
