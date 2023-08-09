@@ -1,0 +1,42 @@
+https://fishshell.com/
+
+git>saves history of files
+git --version
+git config --global user.name "your name here"
+git config --global user.email "your email here"
+git config --global user.email
+git config --global user.name
+git config --global --edit
+make a folder 
+cd folder
+code .
+git init
+git status
+git add index.html > moves to staging area
+(hold our data before final commit)
+git commit -m "nav updated"
+git log > number of commits
+git add . > short cut of adding all files to staging area
+git checkout <commit hash code> to move to older commits
+git checkout master > to come back to current position
+git branch > to check total branches
+git branch devA > new branch
+git checkout devA
+git checkout -b  devanav > new branch created + moved to 
+new branch
+git merge <branch name> to merge code of branches
+touch .gitignore
+
+
+
+
+
+
+
+
+
+
+
+
+
+
